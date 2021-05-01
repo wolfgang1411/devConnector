@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://wolfgang1411:0@Alikhanali@cluster0.juewm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"VictoriasSecrect",
+    "githubClientId":"2b5c26ce6015b766f5ad",
+    "githubClientSecret":"8f6e7656a4c8e2a497f009ac1d16fd514fe7990f"
+}
