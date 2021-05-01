@@ -50,7 +50,7 @@ const ProfileTop = ({
           </Link>
         )}
 
-        {social.instagram && (
+        {social?.instagram && (
           <Link to={social.instagram || ''} target="_blank" rel="noopener noreferrer">
             <i className="fab fa-instagram fa-2x"></i>
           </Link>
